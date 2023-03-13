@@ -27,7 +27,7 @@ int count_word(char *s)
 }
 
 /**
- * strtoq - splits a string into words
+ * strtow - splits a string into words
  * @str: string to split
  * Return: pointer to an array of strings (Success)
  * or NULL (Error)
